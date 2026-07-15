@@ -1,4 +1,4 @@
-**Good morning, **
+**Good morning,**
 
 My name is Vipin Kumar. I have 13 years of overall IT experience, with the last 5 years focused on Cloud and DevOps Engineering.
 
