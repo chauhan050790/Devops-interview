@@ -1,4 +1,4 @@
-**Good morning, sir/madam. Thank you for giving me the opportunity to introduce myself.**
+**Good morning, **
 
 My name is Vipin Kumar. I have 13 years of overall IT experience, with the last 5 years focused on Cloud and DevOps Engineering.
 
